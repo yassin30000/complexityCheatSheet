@@ -7,6 +7,7 @@ justification for your answer. Assume `arr` is an array of length _n_.
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [push on MDN][push]
 
 
@@ -14,11 +15,13 @@ Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [pop on MDN][pop]
 
 ## `arr.shift()`
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
+
 
 [shift on MDN][shift]
 
@@ -26,11 +29,13 @@ Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [unshift on MDN][unshift]
 
 ## `arr.splice()`
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
+
 
 [splice on MDN][splice]
 
@@ -38,11 +43,13 @@ Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [slice on MDN][slice]
 
 ## `arr.indexOf()`
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
+
 
 [indexOf on MDN][indexOf]
 
@@ -50,11 +57,13 @@ Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [map on MDN][map]
 
 ## `arr.filter()`
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
+
 
 [filter on MDN][filter]
 
@@ -62,17 +71,20 @@ Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [reduce on MDN][reduce]
 
 ## `arr.reverse()`
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
 
+
 [reverse on MDN][reverse]
 
 ## `[...arr]`
 
 Time complexity: O(?) Space complexity: O(?) Justification: Fill this in
+
 
 [spread on MDN][spread]
 
